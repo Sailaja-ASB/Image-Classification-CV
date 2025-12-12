@@ -79,7 +79,8 @@ jupyter notebook "Image-Classification-Project.ipynb"
 
 ## 👩‍💻 Author
 
-**Sailaja Morrennagari**  
-GitHub: https://github.com/Sailaja-ASB  
-LinkedIn: https://www.linkedin.com/in/sailajamorrennagari  
+## 🌐 Connect With Me
 
+🔗 **GitHub:** https://github.com/Sailaja-ASB  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sailajamorrennagari  
+🔗 **LeetCode:** https://leetcode.com/u/Its_Sailaja/
