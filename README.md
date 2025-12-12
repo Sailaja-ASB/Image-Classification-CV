@@ -28,8 +28,8 @@ pandas
 matplotlib  
 opencv-python  
 tensorflow  
-# or PyTorch if you used it:
-# torch  
+PyTorch
+ 
 ```
 
 ---
