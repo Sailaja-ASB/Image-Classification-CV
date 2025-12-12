@@ -78,6 +78,7 @@ jupyter notebook "Image-Classification-Project.ipynb"
 ---
 
 ## 👩‍💻 Author
+**Sailaja Morrennagari**
 
 ## 🌐 Connect With Me
 
